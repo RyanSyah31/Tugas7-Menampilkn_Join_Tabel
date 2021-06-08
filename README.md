@@ -9,8 +9,8 @@ Langkah2
 
 # Tampilan desain database (CDM / PDM / ERD)
 
-<img src="Capture.PNG" alt="Girl in a jacket" width="1116" height="591">
+<img src="Capture.jpg" alt="Girl in a jacket" width="1116" height="591">
 
 
 # tampilan index
-<img src="HOME.PNG" alt="Girl in a jacket" width="824" height="578">
+<img src="HOME.png" alt="Girl in a jacket" width="824" height="578">
